@@ -1,6 +1,6 @@
 - 👋 Hi, We are @peechCare
 - 👀 The Future of Speech Therapy
-- 🌱 We are a team of 4 people workin on an exciting product!
+- 🌱 We are a team of 4 people working on an exciting product!
 - 💞️ We need talented engineers to collaborate on our project
 - 📫 Contact us!
 
